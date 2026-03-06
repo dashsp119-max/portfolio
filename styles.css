@@ -1,19 +1,19 @@
 :root {
   /* Light Mode Colors */
-  --background-light: #556B2F;
-  --section-bg-light: #F5F5F5;
-  --text-light: #000000;
-  --link-light: #7B4F9D;
-  --button-light: #7B4F9D;
-  --button-hover-light: #432b55;
+  --background-light: #FFF6FA;
+  --section-bg-light: #FFFFFF;
+  --text-light: #3A2A2A;
+  --link-light: #FF4FA3;
+  --button-light: #FF4FA3;
+  --button-hover-light: #E7338C;
   --button-text-light: #FFFFFF;
   --image-bg-light: #FFFFFF;
-  --border-light: #e1e1e1;
-  --contact-icon-light: #000000;
+  --border-light: #F3C6D3;
+  --contact-icon-light: #FF4FA3;
 
   /* Shadow colors */
-  --shadow-color-light: rgba(0, 0, 0, 0.1);
-  --shadow-color-hover-light: rgba(0, 0, 0, 0.15);
+  --shadow-color-light: rgba(0, 0, 0, 0.08);
+  --shadow-color-hover-light: rgba(0, 0, 0, 0.12);
 
   /* Shadow definitions */
   --shadow-standard-light: 0 4px 8px var(--shadow-color-light);
@@ -21,22 +21,22 @@
   --shadow-top-light: 0 -4px 8px var(--shadow-color-light);
 
   /* Dark Mode Colors */
-  --background-dark: #2D3339;
-  --section-bg-dark: #38471f;
+  --background-dark: #1F1B1E;
+  --section-bg-dark: #2A2326;
   --text-dark: #FFFFFF;
-  --link-dark: #6DABFF;
-  --button-dark: #6DABFF;
-  --button-hover-dark: #004099;
+  --link-dark: #FF6FB5;
+  --button-dark: #FF4FA3;
+  --button-hover-dark: #E7338C;
   --button-text-dark: #FFFFFF;
-  --card-bg-dark: #2D3339;
-  --image-bg-dark: #f2f2f2;
-  --border-dark: #2D3339;
-  --underline-dark: #FFFFFF;
-  --contact-icon-dark: #FFFFFF;
+  --card-bg-dark: #2A2326;
+  --image-bg-dark: #FADADD;
+  --border-dark: #3A2F33;
+  --underline-dark: #FF4FA3;
+  --contact-icon-dark: #FF6FB5;
 
   /* Shadow colors (dark) */
-  --shadow-color-dark: rgba(0, 0, 0, 0.25);
-  --shadow-color-hover-dark: rgba(0, 0, 0, 0.35);
+  --shadow-color-dark: rgba(0, 0, 0, 0.35);
+  --shadow-color-hover-dark: rgba(0, 0, 0, 0.45);
 
   /* Shadow definitions (dark) */
   --shadow-standard-dark: 0 4px 8px var(--shadow-color-dark);
